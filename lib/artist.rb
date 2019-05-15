@@ -1,4 +1,4 @@
-class artist 
+8class artist 
   attr_accessor :name
   
   
